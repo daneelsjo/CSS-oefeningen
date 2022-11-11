@@ -7,15 +7,18 @@ footer{
 }
 
 td{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     text-align: center;
 }
 
-img{
-    width: 150px;
-    height: 150px;
+img#pizza{
+    width: 200px;
+    height: 200px;
 }
+img#wereldkaart{
+    width: 150px;
+    height: 200px;
 
 #cel1{
     background-color: brown;

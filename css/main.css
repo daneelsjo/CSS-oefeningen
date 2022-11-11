@@ -12,11 +12,11 @@ td{
     text-align: center;
 }
 
-img#pizza{
+img.pizza{
     width: 200px;
     height: 200px;
 }
-img#wereldkaart{
+img.wereldkaart{
     width: 200px;
     height: 150px;
 }

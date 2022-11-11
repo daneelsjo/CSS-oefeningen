@@ -11,16 +11,47 @@ td{
     height: 225px;
     text-align: center;
 }
-
+/* afmetingen afbeeldingen */
 img.pizza{
     width: 200px;
     height: 200px;
 }
+
 img.wereldkaart{
     width: 200px;
     height: 150px;
 }
 
+img.bevrorenbladeren{
+    width: 200px;
+    height: 150px;
+}
+
+img.kat{
+    width: 200px;
+    height: 150px;
+}
+
+img.strand{
+    width: 200px;
+    height: 150px;
+}
+img.wereldbol{
+    width: 200px;
+    height: 150px;
+}
+
+img.rivier{
+    width: 200px;
+    height: 150px;
+}
+
+img.eend{
+    width: 200px;
+    height: 150px;
+}
+
+/* achtergrondkleur cellen */
 #cel1{
     background-color: brown;
 }
